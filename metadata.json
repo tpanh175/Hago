@@ -1,0 +1,10 @@
+{
+  "name": "hago",
+  "description": "An aesthetic, minimalist spot discovery and outing curator for Seattle, New York, and San Francisco. Focuses on what is offered, the vibe, and historical ratings with hotel-style budget and currency filters.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
